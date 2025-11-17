@@ -1,4 +1,10 @@
-## Hi there 👋
+## Rei.doko
+
+---
+
+* Hi, I'm a software engineer passionate about machine learning and AI development.
+* I founded the game development studio Reiso Productions as an alias for my game releases.
+
 
 <!--
 **rei-doko/rei-doko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
