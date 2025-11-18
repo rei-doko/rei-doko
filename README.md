@@ -37,6 +37,7 @@
 ### Backend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="Flask" width="48" height="48" style="margin: 4px;" />
 </p>
 
 ### Database
