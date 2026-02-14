@@ -11,8 +11,6 @@
 
 ## About Me
 - Hi, I'm a software engineer passionate about machine learning and AI development.
-- I founded the game development studio Reiso Productions as an alias for my game releases.
-
 
 ## Focus
 - AI/ML Development
