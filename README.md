@@ -10,7 +10,7 @@
 </p>
 
 ## About Me
-- Hi, I'm a software engineer passionate about machine learning and AI development.
+- Hi, I'm a software engineer interested in the cybersecurity and backend field.
 
 ## Focus
 - AI/ML Development
