@@ -1,4 +1,4 @@
-<h1 align="center">Rei.doko 
+<h1 align="center">rei.doko 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvqaufuNDAyAIbiHx4_qkdfWau8koin1NXA&s" height="30px" width="30px"> 
 </h1>
 <h3 align="center">Software Engineer</h3>
@@ -10,7 +10,7 @@
 </p>
 
 ## About Me
-- Hi, I'm a software engineer interested in the cybersecurity and backend field.
+- Hi, I'm a software engineer interested in cybersecurity and backend.
 
 ## Focus
 - AI/ML Development
