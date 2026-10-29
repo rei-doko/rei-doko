@@ -10,10 +10,10 @@
 </p>
 
 ## About Me
-- Hi, I'm a software engineer interested in cybersecurity and backend.
+- Hi, I'm a software engineer currently interested in game development.
 
 ## Focus
-- AI/ML Development
+- SWE
 - Game Development
 
 
